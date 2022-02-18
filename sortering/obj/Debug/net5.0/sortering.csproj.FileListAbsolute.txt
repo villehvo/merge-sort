@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\sortering\bin\Debug\net5.0\sortering.exe
+C:\Users\Admin\Desktop\sortering\bin\Debug\net5.0\sortering.deps.json
+C:\Users\Admin\Desktop\sortering\bin\Debug\net5.0\sortering.runtimeconfig.json
+C:\Users\Admin\Desktop\sortering\bin\Debug\net5.0\sortering.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\sortering\bin\Debug\net5.0\sortering.dll
+C:\Users\Admin\Desktop\sortering\bin\Debug\net5.0\ref\sortering.dll
+C:\Users\Admin\Desktop\sortering\bin\Debug\net5.0\sortering.pdb
+C:\Users\Admin\Desktop\sortering\obj\Debug\net5.0\sortering.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\sortering\obj\Debug\net5.0\sortering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\sortering\obj\Debug\net5.0\sortering.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\sortering\obj\Debug\net5.0\sortering.AssemblyInfo.cs
+C:\Users\Admin\Desktop\sortering\obj\Debug\net5.0\sortering.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\sortering\obj\Debug\net5.0\sortering.dll
+C:\Users\Admin\Desktop\sortering\obj\Debug\net5.0\ref\sortering.dll
+C:\Users\Admin\Desktop\sortering\obj\Debug\net5.0\sortering.pdb
+C:\Users\Admin\Desktop\sortering\obj\Debug\net5.0\sortering.genruntimeconfig.cache
